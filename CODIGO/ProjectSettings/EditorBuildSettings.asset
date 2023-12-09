@@ -9,6 +9,15 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Agua Purificante.unity
+    path: Assets/Scenes/1.cristalesDeSol.unity
+    guid: 2c25db1181702454c90177ddf425b2a5
+  - enabled: 1
+    path: Assets/Scenes/2.AguaPurificante.unity
     guid: 4a03df0e42c64174cad219eca9d96492
+  - enabled: 1
+    path: Assets/Scenes/3.FuegoVigorizante.unity
+    guid: 3a7fae7730558744a87c69378a8aa5bb
+  - enabled: 1
+    path: Assets/Scenes/4.AireEnvolvente.unity
+    guid: 699c96d0853e355418296dc8f68cff68
   m_configObjects: {}
